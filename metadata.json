@@ -1,0 +1,6 @@
+{
+  "name": "Secure Alpha & Alpha Academy",
+  "description": "Secure Alpha Software Engineering Division and Alpha Academy Technical Education Platform with services, course curriculums, interactive skill diagnostic radar, and credential verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
